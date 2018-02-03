@@ -1,4 +1,5 @@
 
+#+STARTUP:    align fold nodlcheck hidestars oddeven intestate
 
 * 一级标题1
 ** 二级标签
